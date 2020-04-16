@@ -1,0 +1,15 @@
+.container {
+  margin-bottom: 50px;
+}
+.container h1 {
+  color: #0099cc;
+}
+.jumbotron {
+  background-image: url("https://image.freepik.com/free-photo/front-view-woman-with-copy-space_23-2148489685.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.8;
+}
+h1{
+  font-weight:bolder
+}
